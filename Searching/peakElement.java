@@ -1,4 +1,4 @@
-public class peakElement {
+public class PeakElement {
     public int peakElement(int[] arr) {
         // code here
         int n = arr.length; 
